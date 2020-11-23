@@ -1,0 +1,8 @@
+C:\Users\Enochlev\Documents\School\Machine Learning\Decision Tree\WindowsForms\WindowsFormsApp1\bin\Debug\net472\Decision Tree Project.exe.config
+C:\Users\Enochlev\Documents\School\Machine Learning\Decision Tree\WindowsForms\WindowsFormsApp1\bin\Debug\net472\Decision Tree Project.exe
+C:\Users\Enochlev\Documents\School\Machine Learning\Decision Tree\WindowsForms\WindowsFormsApp1\bin\Debug\net472\Decision Tree Project.pdb
+C:\Users\Enochlev\Documents\School\Machine Learning\Decision Tree\WindowsForms\WindowsFormsApp1\obj\Debug\net472\Decision Tree Project.csprojAssemblyReference.cache
+C:\Users\Enochlev\Documents\School\Machine Learning\Decision Tree\WindowsForms\WindowsFormsApp1\obj\Debug\net472\Decision Tree Project.AssemblyInfoInputs.cache
+C:\Users\Enochlev\Documents\School\Machine Learning\Decision Tree\WindowsForms\WindowsFormsApp1\obj\Debug\net472\Decision Tree Project.AssemblyInfo.cs
+C:\Users\Enochlev\Documents\School\Machine Learning\Decision Tree\WindowsForms\WindowsFormsApp1\obj\Debug\net472\Decision Tree Project.exe
+C:\Users\Enochlev\Documents\School\Machine Learning\Decision Tree\WindowsForms\WindowsFormsApp1\obj\Debug\net472\Decision Tree Project.pdb
